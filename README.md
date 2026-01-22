@@ -44,6 +44,6 @@ Once the Bash script completes, use the MATLAB script to consolidate the results
 
 1. **Open MATALB** in the project directory.
 2. **Run the script**: Execute ```generate_connectivity_matrix.m```
-3. **Final Result**: ```ProbabilisticMatrix.txt``` (A 90x90 asymmetric matrix where rows represent seeds and columns represent targets).
+3. **Final Result**: ```ProbabilisticMatrix.txt``` (A 90x90 asymmetric matrix where rows represent seeds and columns represent targets). See ```Example of result figure.png```
 
 
